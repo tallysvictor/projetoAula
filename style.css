@@ -5,15 +5,17 @@
 
 }
     :root {
-        --text-color: black;
-        --imagem-fundo: url(/vscode/assets/CURIOSO.png) no-repeat top center/cover;
+
+        --text-color: white;
+        --imagem-fundo: url(/vscode/assets/back\ preto\ e\ amarelo.avif) no-repeat top center/cover;
+       
        
     }
     
     .light {
-        --text-color: white;
-        --imagem-fundo: url(/vscode/assets/back\ preto\ e\ amarelo.avif) no-repeat top center/cover;
-       
+        
+        --text-color: black;
+        --imagem-fundo: url(/vscode/assets/CURIOSO.png) no-repeat top center/cover;
        
     }
 
@@ -26,6 +28,7 @@ body {
     background-size: cover;
     */
     background: var(--imagem-fundo)
+    
 }
 
  body * {
