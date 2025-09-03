@@ -7,7 +7,7 @@
     :root {
 
         --text-color: white;
-        --imagem-fundo: url(/vscode/assets/back\ preto\ e\ amarelo.avif) no-repeat top center/cover;
+        --imagem-fundo: url(vscode/assets/back\ preto\ e\ amarelo.avif) no-repeat top center/cover;
        
        
     }
@@ -15,8 +15,8 @@
     .light {
         
         --text-color: black;
-        --imagem-fundo: url(/vscode/assets/CURIOSO.png) no-repeat top center/cover;
-       
+        --imagem-fundo: url(vscode/assets/CURIOSO.png) no-repeat top center/cover;
+
     }
 
 
